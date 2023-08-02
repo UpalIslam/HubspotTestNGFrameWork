@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <test name="Regression Tests">
+        <classes>
+            <!-- Add your test classes here -->
+            <class name="com.qa.hubspot.tests.LoginPageTest" />
+        </classes>
+    </test>
+</suite>   
